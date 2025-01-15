@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @troemanes
-- 👀 I’m interested in Mobile Apps
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎯 Junior Android Developer - Kotlin
 
-<!---
-troemanes/troemanes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Exploring the world of mobile development since 2023.
+
+🎮 Developed and published 2-3 apps, including games and social media projects, with more on the way!
+
+💡 Proficient in modern Android tools like Jetpack Compose, Firebase, and Room.
+
+🌍 Passionate about creating user-focused, innovative projects and making an impact globally.
+
+💼 What I’m working on:
+
+Expanding my Play Store portfolio with new and exciting applications.
+
+Continuously learning and exploring new technologies to level up my development skills.
