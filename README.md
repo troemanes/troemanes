@@ -1,15 +1,75 @@
-🎯 Junior Android Developer - Kotlin
+<h1 align="center">👋 Hi, I'm Mert</h1>
 
-🚀 Exploring the world of mobile development since 2023.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=troemanes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-🎮 Developed and published 2-3 apps, including games and social media projects, with more on the way!
+---
 
-💡 Proficient in modern Android tools like Jetpack Compose, Firebase, and Room.
+### 👨‍💻 About Me  
 
-🌍 Passionate about creating user-focused, innovative projects and making an impact globally.
+I'm an **Android Developer** with 2 years of hands-on experience in creating innovative and user-focused mobile applications.  
+- 🌟 Skilled in **Kotlin**, **Jetpack Compose**, and **modern Android development practices**.  
+- 🚀 Passionate about creating mobile apps and games that offer valuable user experiences.
+- 🎯 Although I don't have professional work experience yet, I have been independently building applications and working towards publishing them on the Play Store as part of my entrepreneurial journey.
+---
 
-💼 What I’m working on:
+### ⚙️ Key Skills & Tools  
 
-Expanding my Play Store portfolio with new and exciting applications.
+- **Languages**: Kotlin, Java  
+- **Frameworks & Libraries**: Jetpack Compose, XML, Firebase, Room, ML Kit  
+- **Architectures**: MVVM, Repository Pattern
+- **Tools**: Android Studio, Git , Google Maps
 
-Continuously learning and exploring new technologies to level up my development skills.
+---
+
+### 📂 Why My Repositories Are Private  
+
+As an aspiring entrepreneur, the majority of my projects are **non-open-source** because:  
+- They are published or will be published on the **Google Play Store** as part of my startup initiatives.  
+- I aim to protect the **intellectual property** and unique value propositions of these applications.  
+
+Feel free to check out the **live apps** linked below to explore my work in action.  
+
+---
+
+### 💼 Current Projects  
+
+1. **Event-U-Ally**: A social media platform designed for creating and joining events. This was my first major application and the project that inspired me to start learning coding, marking the beginning of my startup journey. Although it was published on the Play Store, it was later removed due to some issues. I am currently redesigning the UI and planning to republish it on Play Store while actively seeking investment opportunities.
+
+2. **DungeonWarrior**: A cross-platform RPG game with immersive gameplay, developed using **Jetpack Compose**. It is almost ready to publish on Play Store.  
+
+3. **Staring Contest**: A social game leveraging **Google's ML Kit** for real-time face tracking. (Still under development)
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=troemanes&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=troemanes&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎥 Tech in Motion  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" />
+</p>
+
+---
+
+### 📫 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-ünal-androidguy/)
+<!--
+[![Google Play](https://img.shields.io/badge/Google%20Play-Apps-%234285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=your-id)  
+-->
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/troemanes)  
+
+---
+
+<p align="center">
+📢 **"Code is the bridge between dreams and reality."**  
+</p>
