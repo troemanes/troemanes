@@ -57,9 +57,9 @@ Feel free to check out the **live apps** linked below to explore my work in acti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-ünal-androidguy/)
 <!--
 [![Google Play](https://img.shields.io/badge/Google%20Play-Apps-%234285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=your-id)  
--->
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/troemanes)  
 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/troemanes)  
+-->
 ---
 
 ### 🚀 **Let's Build Something Together!**  
