@@ -52,14 +52,6 @@ Feel free to check out the **live apps** linked below to explore my work in acti
 
 ---
 
-### 🎥 Tech in Motion  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" />
-</p>
-
----
-
 ### 📫 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-ünal-androidguy/)
@@ -70,6 +62,14 @@ Feel free to check out the **live apps** linked below to explore my work in acti
 
 ---
 
+### 🚀 **Let's Build Something Together!**  
+
 <p align="center">
-📢 **"Code is the bridge between dreams and reality."**  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" />
+</p>
+
+---
+
+<p align="center">
+📢 "Code is the bridge between dreams and reality."  
 </p>
