@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mert</h1>
+<h1 align="center">👋 Hello there, I'm Mert</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=troemanes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
