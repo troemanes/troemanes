@@ -1,3 +1,5 @@
+
+
 <h1 align="center">👋 Hello there, I'm Mert</h1>
 
 <p align="center">
@@ -43,10 +45,21 @@ Feel free to check out the **live apps** linked below to explore my work in acti
 
 ---
 
+### 🤔 Why Do I Have Fewer Projects?  
+
+My goal is to become an entrepreneur, and my journey began with creating my own social media application from scratch. This ambitious undertaking required me to not only learn coding but also tackle the complexities of building a product with real-world impact.  
+
+I prioritize **quality over quantity**, focusing on creating unique, high-quality applications with original designs and innovative ideas. Instead of producing simple, template-based apps to fill my portfolio, I aim to bring my dreams to life by building meaningful projects that reflect my creativity and vision.  
+
+For me, the value of a portfolio lies in showcasing impactful and purposeful projects rather than an abundance of basic or generic ones. Each project I undertake is a step towards achieving my long-term goals, and I invest my full effort to ensure it stands out.
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=troemanes&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troemanes&layout=compact&theme=default" alt="Top Languages" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=troemanes&theme=default" alt="GitHub Streak" />
 </p>
 
